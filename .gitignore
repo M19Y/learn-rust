@@ -1,0 +1,11 @@
+# Cargo build output
+target/
+
+# Editor
+.nvim/
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
