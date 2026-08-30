@@ -19,8 +19,9 @@
 
 `rustc src/simple-file.rs -o bin/simple-file; ./bin/simple-file.rs`
 
+4. Compile and test with no capture 
 
-
+`rustc --test src/hello-world.rs -o build/hello-world; ./build/hello-world --nocapture`
 ### With Cargo
 
 1. Compile and run:
