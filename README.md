@@ -48,3 +48,14 @@
 
 `cargo test -- --nocapture`
 
+
+## Road map you should learn:
+
+1. [hello-world](./src/hello-world.rs)
+2. [variabels](./src/variabels.rs)
+3. [data-types](./src/data-types.rs)
+4. [comparison-operator](./src/comparison-operator.rs)
+5. [tuple](./src/tuple.rs)
+6. [array](./src/array.rs)
+7. [constant](./src/constant.rs)
+8. [string](./src/string.rs)
