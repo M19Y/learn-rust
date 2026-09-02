@@ -59,3 +59,9 @@
 6. [array](./src/array.rs)
 7. [constant](./src/constant.rs)
 8. [string](./src/string.rs)
+9. [ownership](./src/ownership.rs)
+10. [if-else](./src/if-else.rs)
+11. [loop](./src/loop.rs)
+12. [while-loop](./src/while-loop.rs)
+13. [for-loop](./src/for-loop.rs)
+
